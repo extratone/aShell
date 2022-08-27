@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Feebles Cover.png" source="original">
+    <mtime>1605536367</mtime>
+    <size>4644627</size>
+    <md5>b572c87587bc55810e3951522bc9d7ea</md5>
+    <crc32>59d7b4d1</crc32>
+    <sha1>19d64aaf81521eadf4a27531af9c3e0f222d1fbf</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Feebles Cover_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Feebles Cover.png</original>
+    <mtime>1605536759</mtime>
+    <size>8525</size>
+    <md5>c9feb81119cff6c3c39012a490384f98</md5>
+    <crc32>ce7bed4d</crc32>
+    <sha1>a2c517caaa96bd3e514b5a57e4954436be937cdb</sha1>
+  </file>
+  <file name="Feebles in Night (Kindle Edition) - David Blue.PDF" source="original">
+    <mtime>1605536707</mtime>
+    <size>371553</size>
+    <md5>6ef8548e2ad3af64af643abc46ac3dc5</md5>
+    <crc32>a935fd59</crc32>
+    <sha1>0ed7e90581bf9f4d59f12ab601c0aa54eac6ff5f</sha1>
+    <format>Text PDF</format>
+  </file>
+  <file name="Feebles in Night (Kindle Edition) - David Blue.docx" source="original">
+    <mtime>1605536332</mtime>
+    <size>84702</size>
+    <md5>968ac10b4b8d859767bfa1f45983582f</md5>
+    <crc32>5bc31f53</crc32>
+    <sha1>48be6b00b12d0bc7e240f6fcf8a8c068d21d8440</sha1>
+    <format>Word Document</format>
+  </file>
+  <file name="Feebles in Night (Kindle Edition) - David Blue.pdf" source="derivative">
+    <format>Text PDF</format>
+    <original>Feebles in Night (Kindle Edition) - David Blue_abbyy.gz</original>
+    <mtime>1605538603</mtime>
+    <size>952042</size>
+    <md5>f59506f8bde49f50949b4d0fbcfbb0aa</md5>
+    <crc32>edecf4c6</crc32>
+    <sha1>af7bbd4e8ee9530a44b2e38196d076865880c56c</sha1>
+  </file>
+  <file name="Feebles in Night (Kindle Edition) - David Blue_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Feebles in Night (Kindle Edition) - David Blue_jp2.zip</original>
+    <mtime>1605537560</mtime>
+    <size>477791</size>
+    <md5>ba3d9188d5fbab5b9b0a943fb89fe618</md5>
+    <crc32>c2dd0d8c</crc32>
+    <sha1>ff4c06ba1b2d4688cb9243d9ecfca36384817dd7</sha1>
+  </file>
+  <file name="Feebles in Night (Kindle Edition) - David Blue_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Feebles in Night (Kindle Edition) - David Blue_djvu.xml</original>
+    <mtime>1605538375</mtime>
+    <size>33523</size>
+    <md5>cb35e3a44942a878459fe83247406470</md5>
+    <crc32>1cf759c9</crc32>
+    <sha1>8778dd3998c3b052de0810ebb678161f988d7dab</sha1>
+  </file>
+  <file name="Feebles in Night (Kindle Edition) - David Blue_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Feebles in Night (Kindle Edition) - David Blue_abbyy.gz</original>
+    <mtime>1605538351</mtime>
+    <size>369282</size>
+    <md5>9fe0442986c7727783c63697773a2fe7</md5>
+    <crc32>2eeb6651</crc32>
+    <sha1>41dc2104506762a7dbb90af7c90ed79495a4a1a2</sha1>
+  </file>
+  <file name="Feebles in Night (Kindle Edition) - David Blue_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Feebles in Night (Kindle Edition) - David Blue.PDF</original>
+    <mtime>1605537287</mtime>
+    <size>6837503</size>
+    <md5>cb3b6837777b5c6ca5c9b268989b41d0</md5>
+    <crc32>6fb81353</crc32>
+    <sha1>d1a3eeba6bb051d9e21cf29ee95e0d816257ea16</sha1>
+  </file>
+  <file name="Feebles in Night (Kindle Edition) - David Blue_page_numbers.json" source="derivative">
+    <format>Page Numbers JSON</format>
+    <original>Feebles in Night (Kindle Edition) - David Blue_djvu.xml</original>
+    <mtime>1605538478</mtime>
+    <size>10465</size>
+    <md5>fc3b2980f83d3dbb9d63c4f39762903e</md5>
+    <crc32>f324bea0</crc32>
+    <sha1>6cf911a645cce27fa00e7dc303116a91f4840597</sha1>
+  </file>
+  <file name="Feebles in Night (Kindle Edition) - David Blue_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Feebles in Night (Kindle Edition) - David Blue_djvu.xml</original>
+    <mtime>1605538438</mtime>
+    <size>18149</size>
+    <md5>65ef535787afaa51ef7801e42fa85ec9</md5>
+    <crc32>2110d556</crc32>
+    <sha1>1e28ffa0e931ab5837f4775b3c9e1be1e483907e</sha1>
+  </file>
+  <file name="Feebles in Night (Proof) - David Blue.PDF" source="original">
+    <mtime>1605536713</mtime>
+    <size>1634366</size>
+    <md5>027bcf99de10c3e3520f5d72ac11055c</md5>
+    <crc32>581b4a0b</crc32>
+    <sha1>c44619d370ff7b24cb8a3f9f2a586455d4d522fa</sha1>
+    <format>Text PDF</format>
+  </file>
+  <file name="Feebles in Night (Proof) - David Blue.pdf" source="derivative">
+    <format>Text PDF</format>
+    <original>Feebles in Night (Proof) - David Blue_abbyy.gz</original>
+    <mtime>1605538827</mtime>
+    <size>2282864</size>
+    <md5>07cbd3f8d604c4698f1eb59a98c4fed5</md5>
+    <crc32>cbdd781b</crc32>
+    <sha1>2de1f5fa5815293e59d2a19ed58509fdd6bba501</sha1>
+  </file>
+  <file name="Feebles in Night (Proof) - David Blue_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Feebles in Night (Proof) - David Blue_jp2.zip</original>
+    <mtime>1605538331</mtime>
+    <size>488663</size>
+    <md5>2e59ab71e8928549a8078ffd2efdc675</md5>
+    <crc32>6305aa2f</crc32>
+    <sha1>b63b67217d1d6e79f908d37a47ea9808dd97d695</sha1>
+  </file>
+  <file name="Feebles in Night (Proof) - David Blue_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Feebles in Night (Proof) - David Blue_djvu.xml</original>
+    <mtime>1605538440</mtime>
+    <size>34602</size>
+    <md5>4845f2be89bda27add1373268001e207</md5>
+    <crc32>5b900eef</crc32>
+    <sha1>b6b2cc807cb18d287801b4936ab4e24fa4ee2589</sha1>
+  </file>
+  <file name="Feebles in Night (Proof) - David Blue_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Feebles in Night (Proof) - David Blue_abbyy.gz</original>
+    <mtime>1605538371</mtime>
+    <size>400216</size>
+    <md5>76a1a7eb1dab855f9b3f8be54ee26e7f</md5>
+    <crc32>05ebcaac</crc32>
+    <sha1>218fe49d60e19b1da943b8292f05f87f2f1a1c6b</sha1>
+  </file>
+  <file name="Feebles in Night (Proof) - David Blue_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Feebles in Night (Proof) - David Blue.PDF</original>
+    <mtime>1605537373</mtime>
+    <size>6837341</size>
+    <md5>a1fd2c534a440bbaa2ea46fc8b251176</md5>
+    <crc32>ef4d7f0e</crc32>
+    <sha1>656f4da27d2c374ec1b797036361c440d4270185</sha1>
+  </file>
+  <file name="Feebles in Night (Proof) - David Blue_page_numbers.json" source="derivative">
+    <format>Page Numbers JSON</format>
+    <original>Feebles in Night (Proof) - David Blue_djvu.xml</original>
+    <mtime>1605538481</mtime>
+    <size>5745</size>
+    <md5>b799d7843bdabfd5c39a6a9cc58a4af2</md5>
+    <crc32>a87afc20</crc32>
+    <sha1>f83004482d92107a9f8be243c51e74b2896a00d5</sha1>
+  </file>
+  <file name="Feebles in Night (Proof) - David Blue_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Feebles in Night (Proof) - David Blue_djvu.xml</original>
+    <mtime>1605538475</mtime>
+    <size>9777</size>
+    <md5>a8a2237e423e6f847e96a64d4a13bdad</md5>
+    <crc32>074a66f3</crc32>
+    <sha1>b697500754d2a36ab203d0629d98964b2612684b</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1613349433</mtime>
+    <size>3193</size>
+    <md5>dc8178e744b199dffb5a5dc2f80bb284</md5>
+    <crc32>dafcbab5</crc32>
+    <sha1>c20773332f4d8dee48209388c7c5f20cfc8c1241</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="feebles.html" source="original">
+    <mtime>1605536376</mtime>
+    <size>775959</size>
+    <md5>307c57fa21f275b9cf0818aede121b6a</md5>
+    <crc32>22d75741</crc32>
+    <sha1>b3a7430fdbe182a1d43c9dbe409df4c107ae0b5f</sha1>
+    <format>HTML</format>
+  </file>
+  <file name="feebles_archive.torrent" source="metadata">
+    <btih>26794e2b02f2ac25dc36d52e1fd225c8b3f44140</btih>
+    <mtime>1613349434</mtime>
+    <size>6934</size>
+    <md5>e41c53fae8fcf4e1f8d128ec2cf9c626</md5>
+    <crc32>45ac1422</crc32>
+    <sha1>85590c687994bb84c9b9079503cb40989a153d6f</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="feebles_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>6a621e51bb0412647263d1f6aa85f6d1</md5>
+  </file>
+  <file name="feebles_meta.sqlite" source="original">
+    <mtime>1605536789</mtime>
+    <size>19456</size>
+    <md5>cc507ca2b0205d9548a8ec3f927f3955</md5>
+    <crc32>7cd4fe29</crc32>
+    <sha1>0bbdbbe0b392692122073a6478b3529b7e2102e7</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="feebles_meta.xml" source="original">
+    <mtime>1613349432</mtime>
+    <size>1177</size>
+    <md5>70bf3a7a0670e08f5789814e178e1d14</md5>
+    <crc32>5a3d612c</crc32>
+    <sha1>4a3c733024b391614d6f5c59284b9ad4a784a930</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="feeblesfrontcover.jpg" source="original">
+    <mtime>1605536371</mtime>
+    <size>283431</size>
+    <md5>f9cfe7f1660b164a9e4acdbad9874635</md5>
+    <crc32>349ff7aa</crc32>
+    <sha1>e54661a0395cca95852f5216151858c53cbee1a5</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="feeblesfrontcover_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>feeblesfrontcover.jpg</original>
+    <mtime>1605536761</mtime>
+    <size>8752</size>
+    <md5>ecf74eefb2ae6815eef17a93996cbbf0</md5>
+    <crc32>dda31cf7</crc32>
+    <sha1>f71afef2054706e01defc5658b87a9567e943e7d</sha1>
+  </file>
+</files>

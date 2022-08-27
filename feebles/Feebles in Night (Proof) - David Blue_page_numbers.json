@@ -1,0 +1,268 @@
+{
+    "confidence": 0,
+    "pages": [
+        {
+            "confidence": 0,
+            "pageNumber": "1",
+            "ocr_value": [
+                "2016",
+                "692"
+            ],
+            "leafNum": 1
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "2",
+            "ocr_value": [
+                "I"
+            ],
+            "leafNum": 2
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "3",
+            "ocr_value": [
+                "L",
+                "54"
+            ],
+            "leafNum": 3
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "4",
+            "ocr_value": [
+                "L"
+            ],
+            "leafNum": 4
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "5",
+            "ocr_value": [
+                "181",
+                "I",
+                "9"
+            ],
+            "leafNum": 5
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "6",
+            "ocr_value": [
+                "I"
+            ],
+            "leafNum": 6
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "7",
+            "ocr_value": [
+                "I"
+            ],
+            "leafNum": 7
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "8",
+            "ocr_value": [
+                "141",
+                "I"
+            ],
+            "leafNum": 8
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "9",
+            "ocr_value": [
+                "161",
+                "I"
+            ],
+            "leafNum": 9
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "10",
+            "ocr_value": [
+                "181",
+                "I"
+            ],
+            "leafNum": 10
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "11",
+            "ocr_value": [
+                "201",
+                "I"
+            ],
+            "leafNum": 11
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "12",
+            "ocr_value": [
+                "22",
+                "I"
+            ],
+            "leafNum": 12
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "13",
+            "ocr_value": [
+                "241",
+                "I"
+            ],
+            "leafNum": 13
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "14",
+            "ocr_value": [
+                "26",
+                "I"
+            ],
+            "leafNum": 14
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "15",
+            "ocr_value": [],
+            "leafNum": 15
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "16",
+            "ocr_value": [
+                "I"
+            ],
+            "leafNum": 16
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "17",
+            "ocr_value": [
+                "I"
+            ],
+            "leafNum": 17
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "18",
+            "ocr_value": [
+                "I"
+            ],
+            "leafNum": 18
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "19",
+            "ocr_value": [
+                "36",
+                "I"
+            ],
+            "leafNum": 19
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "20",
+            "ocr_value": [
+                "I"
+            ],
+            "leafNum": 20
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "21",
+            "ocr_value": [
+                "I"
+            ],
+            "leafNum": 21
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "22",
+            "ocr_value": [
+                "421",
+                "I"
+            ],
+            "leafNum": 22
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "23",
+            "ocr_value": [
+                "I"
+            ],
+            "leafNum": 23
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "24",
+            "ocr_value": [
+                "346",
+                "I"
+            ],
+            "leafNum": 24
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "25",
+            "ocr_value": [
+                "481",
+                "49",
+                "I"
+            ],
+            "leafNum": 25
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "26",
+            "ocr_value": [
+                "501",
+                "1511",
+                "I"
+            ],
+            "leafNum": 26
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "27",
+            "ocr_value": [
+                "52",
+                "I"
+            ],
+            "leafNum": 27
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "28",
+            "ocr_value": [
+                "I"
+            ],
+            "leafNum": 28
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "29",
+            "ocr_value": [
+                "56",
+                "I"
+            ],
+            "leafNum": 29
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "30",
+            "ocr_value": [],
+            "leafNum": 30
+        },
+        {
+            "confidence": 0,
+            "pageNumber": "31",
+            "ocr_value": [],
+            "leafNum": 31
+        }
+    ],
+    "identifier": "/var/tmp/autoclean/derive/feebles/feebles in night (proof) - david blue"
+}

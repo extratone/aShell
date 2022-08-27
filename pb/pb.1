@@ -1,0 +1,84 @@
+.TH PB 1 "27 October 2020" "v2020.10.27"
+
+.SH NAME
+pb \- a helper utility for using 0x0 pastebin services
+
+.SH SYNOPSIS
+.B pb
+[-fucvh] [-s server_endpoint] [-e bin_extension]
+.P
+
+.SH DESRIPTION
+.B pb
+provides an easy-to-use interface for uploading images
+or piping output to a 0x0 pastebin service. While it
+comes pre-configured with a specific pastebin, the
+service endpoint can be overridden.
+
+Data input can be provided as an argument or via stdin.
+The data will be processed as an image, text or URL to
+be shortened based on the context.
+
+The options are as follows:
+
+.TP
+.B -f
+Explicitly interpret stdin as filename or names.
+.TP
+.BI -s " server_address"
+Use alternative pastebin server address.
+.TP
+.BI -e " bin_extension"
+Specifes the file extension used in the upload of binary content passed to
+.B pb
+via standard input.
+.I Note:
+this attribute will not work with file uploads or URL shortening.
+.TP
+.B -u
+Shorten a URL.
+.TP
+.B -c
+Pretty color output.
+.TP
+.B -v
+Display current version information.
+.TP 
+.B -h
+Show the help.
+
+.SH EXIT STATUS
+The
+.B pb
+utility exits 0 on success, and >0 if an error occurs.
+
+.SH EXAMPLES
+.TP
+.B pb scores.txt
+Upload 'scores.txt' to the pastebin
+.TP
+.B pb < script.sh
+Upload executable 'script.sh' as plain text to the pastebin
+.TP
+.B echo 'Secret info' | pb
+Upload piped output to the pastebin
+.TP
+.B find . -type f -name '*.js' -print | pb -f
+Upload a list of files to the pastebin individually
+.TP
+.B pb -s http://0x0.st scores.txt
+Upload a file to a different pastebin endpoint
+.TP
+.B pb -u 'https://tilde.team'
+Shorten the URL to tilde.team
+.TP
+.B curl -s https://some/image/file.png | pb -e "png"
+Download a binary file and re-upload it to the pastebin with an explicit binary
+type and extension.
+
+.SH BUGS
+Report issues at the git repository at
+.B https://tildegit.org/tomasino/pb
+
+.SH AUTHOR
+James Tomasino <james (at) tomasino (dot) org>
