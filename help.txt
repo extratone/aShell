@@ -1,0 +1,27 @@
+a-Shell is a terminal emulator for iOS, with many Unix commands: ls, pwd, tar, mkdir, grep....
+
+a-Shell can do most of the things you can do in a terminal, locally on your iPhone or iPad. You can redirect command output to a file with ">" (append with ">>") and you can pipe commands with "|".
+
+ - Single-finger swipes move the cursor or scroll, two-finger swipes send keyboard input (up, down, escape, tab). "man gestures" for more.
+
+- customize appearance with config
+- pickFolder: open, bookmark and access a directory anywhere (another app, iCloud, WorkingCopy, file providers...)
+- newWindow: open a new window
+- exit: close the current window
+
+- Edit files with vim and ed.
+- Transfer files with curl, tar, scp and sftp.
+- Clone repositories and do version control with lg2 (uses libgit2).
+- Process files with python3, lua, jsc, clang, pdflatex, lualatex.
+- Open files in other apps with open, play sound and video with play, preview with view.
+- For network queries: nslookup, ping, host, whois, ifconfig...
+
+You can download more commands at: https://github.com/holzschu/a-Shell-commands/
+
+- bookmark the current directory with "bookmark <name>" or "s <name>", and access it later with "cd ~name", "jump <name>" or "g <name>".
+- showmarks, l or p: show current list of bookmarks
+- renamemark or r, deletemark or d: change list of bookmarks
+
+Support: e-mail (another_shell@icloud.com), Twitter (@a_Shell_iOS), github (https://github.com/holzschu/a-shell/issues) and Discord (https://discord.gg/cvYnZm69Gy).
+
+For a full list of commands, type help -l
